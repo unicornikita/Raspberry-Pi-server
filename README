@@ -1,0 +1,1 @@
+13.3.2019: Server currently only gets a request from ESP8266 when the door opens(magnetic sensor) and checks if it got the request between 9PM and 5AM when the door should not be opened. 
